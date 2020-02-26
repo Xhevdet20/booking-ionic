@@ -1,0 +1,8 @@
+{
+  "appId": "www.recipe.ionic",
+  "appName": "recipe",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
