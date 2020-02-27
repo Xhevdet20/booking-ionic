@@ -16,5 +16,5 @@ export class DiscoverPage implements OnInit {
   ngOnInit() {
     this.loadedPlaces = this.placesService.places;
   }
-
+ 
 }
