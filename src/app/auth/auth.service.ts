@@ -10,7 +10,7 @@ export class AuthService {
     return this._userIsAuthenticated;
   }
 
-  constructor() { }
+  constructor() {}
 
   login() {
     this._userIsAuthenticated = true;
@@ -18,5 +18,5 @@ export class AuthService {
 
   logout() {
     this._userIsAuthenticated = false;
-  } 
+  }
 }
